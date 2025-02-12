@@ -1,1 +1,1 @@
-# restapi
+The **REST API CRUD** application follows the **Model-View-Controller (MVC)** architecture to manage resources via HTTP methods. It enables **Create, Read, Update, and Delete (CRUD)** operations using **RESTful endpoints** for seamless client-server communication. The **Model** represents data, the **Controller** handles API requests, and responses are returned in **JSON or XML** format.
